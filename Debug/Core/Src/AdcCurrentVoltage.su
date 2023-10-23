@@ -1,0 +1,2 @@
+AdcCurrentVoltage.c:52:6:Adc_CurrentVoltage_INIT	16	static
+AdcCurrentVoltage.c:64:6:ADC_getData	16	static

@@ -1,0 +1,6 @@
+Supercluster_Math_ADC.c:39:6:Supercluster_Supercluster_AD_i	24	static
+Supercluster_Math_ADC.c:55:6:Supercluster_Supercluster_AD_c3	16	static
+Supercluster_Math_ADC.c:73:6:Supercluster_Supercluster_AD_h4	56	static
+Supercluster_Math_ADC.c:96:6:Supercluster_ADC_task	32	static
+Supercluster_Math_ADC.c:297:6:Supercluster_ADC_init	4	static
+Supercluster_Math_ADC.c:307:6:Supercluster_AD_terminate	4	static

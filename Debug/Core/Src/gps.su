@@ -1,0 +1,5 @@
+gps.c:31:6:circBuffer_INIT	8	static
+gps.c:37:8:circle_buffer_put_char	24	static
+gps.c:60:8:circle_buffer_get_char	16	static
+gps.c:76:8:gps_GetNewLine	16	static
+gps.c:99:6:HAL_UART_RxCpltCallback	16	static

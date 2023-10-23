@@ -1,0 +1,3 @@
+Supercluster_I_V_HAL.c:42:6:Supercluster_Init_HAL_I_V	8	static
+Supercluster_I_V_HAL.c:56:6:Supercluster_Get_HAL_I	16	static
+Supercluster_I_V_HAL.c:69:6:Supercluster_Get_HAL_V	16	static

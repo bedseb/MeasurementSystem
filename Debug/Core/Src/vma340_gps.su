@@ -1,0 +1,9 @@
+vma340_gps.c:35:7:strtoke	24	static
+vma340_gps.c:54:6:vma340_INIT	16	static
+vma340_gps.c:92:6:vma340_ReceiveUartChar	24	static
+vma340_gps.c:124:8:vma340_GetChar	16	static
+vma340_gps.c:136:6:vma340_GetLine	24	static
+vma340_gps.c:160:6:vma340_Parse$GPRMC	24	static
+vma340_gps.c:233:6:vma340_Parse$GPGGA	24	static
+vma340_gps.c:289:6:vma340_ParseData	24	static
+vma340_gps.c:301:6:vma340_Loop	16	static
